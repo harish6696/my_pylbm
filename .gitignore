@@ -1,0 +1,7 @@
+*.sh
+*.out
+*.mp4
+*.gif
+*.xdmf
+*.h5
+build/
